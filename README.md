@@ -26,3 +26,6 @@ Se quiser trocar uma ideia ou compartilhar dicas, me avise! 😊
 ---
  
 **Obrigado por visitar meu repositório!** ✨
+
+
+** By: lipefs
